@@ -4,7 +4,8 @@
   "description": "MCC is a simple app built to display upcoming air dates for Marvel movies and TV shows.",
   "main": "routes.js",
   "dependencies": {
-    "babel-runtime": "^6.20.0"
+    "babel-runtime": "^6.23.0",
+    "bcrypt": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
